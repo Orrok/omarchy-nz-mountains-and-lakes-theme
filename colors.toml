@@ -12,7 +12,16 @@ accent = "#4fc8e8"
 # Omarchy feeds this one key into the Hyprland border AND every shell surface.
 hyprland_active_border = "accent blue 45deg"
 
+# Unfocused window border. Like the active border, this reaches the Hyprland
+# border and the shell surfaces, and unlike hyprland.lua it survives a repo
+# install.
+hyprland_inactive_border = "selection"
+
 selection = "#1e3a54"
+# Text selection, honoured by the terminals, Neovim, Helix, VS Code and the
+# gum menus alike, so highlighting looks the same in every one of them.
+selection_background = "#1e3a54"
+selection_foreground = "#f2f8ff"
 muted = "#3d5f7d"
 
 background = "#0c1826"
