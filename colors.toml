@@ -1,0 +1,42 @@
+# NZ - Mountains and Lakes: glacier-fed water under the Southern Alps.
+# Palette sampled from photographs of Pukaki, Tekapo, the Hooker Valley and
+# Wakatipu: lake at depth for the backgrounds, glacial meltwater for the accent,
+# snow for text, and tussock and alpenglow for the warm signal colours.
+
+mode = "dark"
+
+accent = "#4fc8e8"
+
+# Window/notification/menu border, resolved against the palette below. Glacial
+# meltwater shading into deep lake, at the angle light rakes across a valley.
+# Omarchy feeds this one key into the Hyprland border AND every shell surface.
+hyprland_active_border = "accent blue 45deg"
+
+selection = "#1e3a54"
+muted = "#3d5f7d"
+
+background = "#0c1826"
+dark_background = "#081120"
+darker_background = "#050b16"
+lighter_background = "#14263a"
+
+foreground = "#dfeaf5"
+dark_foreground = "#5b7794"
+light_foreground = "#a8c2d6"
+bright_foreground = "#f2f8ff"
+
+red = "#e5776c"
+yellow = "#e3c65e"
+orange = "#e09a4e"
+green = "#7ec48c"
+cyan = "#4fc8e8"
+blue = "#58a6f0"
+magenta = "#b48ee6"
+brown = "#7a6a52"
+
+bright_red = "#f08d80"
+bright_yellow = "#efd678"
+bright_green = "#96d6a3"
+bright_cyan = "#7bdcf5"
+bright_blue = "#7fbdff"
+bright_magenta = "#c9a8f0"
