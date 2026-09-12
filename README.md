@@ -33,7 +33,7 @@ name, so the theme installs as `nz-mountains-and-lakes`.
 | `icons.theme` | Yaru Blue icon theme. |
 | `chromium.theme` | Browser frame tint. |
 | `unlock.png` | The Omarchy wordmark, recoloured to the accent. |
-| `backgrounds/` | Ten photographs, every one 3840px wide or larger. |
+| `backgrounds/` | Twelve photographs, all but one 3840px wide or larger. |
 
 Filenames in `backgrounds/` are zero-padded on purpose. Omarchy sorts them with
 the locale's collation, which ignores hyphens, so an unpadded `10-` would sort
@@ -84,7 +84,7 @@ This is a deliberate safety measure in Omarchy, not a fault in the theme.
 
 ## Photographs
 
-Ten backgrounds by ten photographers, used under the
+Twelve backgrounds by eleven photographers, used under the
 [Unsplash License](https://unsplash.com/license). Full attribution, including a
 link to every photographer and every original photograph, is in
 **[CREDITS.md](CREDITS.md)**. The same credit is embedded in each JPEG, so it
