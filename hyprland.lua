@@ -2,7 +2,7 @@
 --
 -- The forest theme rounds its corners because nothing in a forest is square.
 -- This one does the opposite on purpose: mountains and ice are angular, so the
--- corners stay nearly sharp and the shadow is tight and hard, like alpine light.
+-- corners are square and the shadow is tight and hard, like alpine light.
 -- Blur stands in for the haze that hangs over a glacier lake, and unfocused
 -- windows recede the way a distant range fades into that haze.
 --
@@ -29,8 +29,8 @@ hl.config({
   },
 
   decoration = {
-    -- Rock and ice, not leaves. Just enough to avoid a hard pixel corner.
-    rounding = 4,
+    -- Rock and ice. No rounding at all: a ridge line does not have a radius.
+    rounding = 0,
 
     -- Distance haze: whatever you are not working in falls back a valley.
     dim_inactive = true,

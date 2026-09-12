@@ -1,0 +1,3 @@
+# A little of the lake shows through the bar. Paired with the blur in
+# hyprland.lua this reads as haze; on its own it still sits fine.
+background-alpha = 0.90
