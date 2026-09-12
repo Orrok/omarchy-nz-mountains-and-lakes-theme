@@ -3,7 +3,15 @@
 A dark theme for [Omarchy](https://omarchy.org), drawn from glacier-fed water
 under the Southern Alps.
 
-![NZ - Mountains and Lakes](preview.png)
+### The theme in use
+
+![The NZ - Mountains and Lakes theme on a desktop](preview.png)
+
+### The photograph behind it
+
+The one the theme opens on: Delphine Ducaruge's Lake Pukaki.
+
+![Two people wading in Lake Pukaki, by Delphine Ducaruge](backgrounds/01-pukaki-swimmers.jpg)
 
 The palette was sampled from the photographs themselves rather than invented:
 lake at depth for the backgrounds, glacial meltwater for the accent, snow for
