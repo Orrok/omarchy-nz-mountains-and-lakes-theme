@@ -41,7 +41,8 @@ name, so the theme installs as `nz-mountains-and-lakes`.
 | `icons.theme` | Yaru Blue icon theme. |
 | `chromium.theme` | Browser frame tint. |
 | `unlock.png` | The Omarchy wordmark, recoloured to the accent. |
-| `backgrounds/` | Twelve photographs, all but one 3840px wide or larger. |
+| `backgrounds/` | Twenty-two photographs, all but one 3840px wide or larger. |
+| `workspace-backgrounds.json` | Which background each Hyprland workspace gets, by workspace name. |
 
 Filenames in `backgrounds/` are zero-padded on purpose. Omarchy sorts them with
 the locale's collation, which ignores hyphens, so an unpadded `10-` would sort
@@ -55,6 +56,24 @@ does the opposite. Mountains and ice are angular, so corners sit at 4px, the
 drop shadow is tight and hard like high-altitude light, and blur on the bar and
 menus stands in for the haze over a cold lake. Unfocused windows dim by 0.18 so
 they fall back the way a distant range fades.
+
+### One background per workspace
+
+`workspace-backgrounds.json` names a background for each Hyprland workspace, by
+the workspace's name rather than its number, so the choice follows the workspace
+when it moves:
+
+```json
+{
+  "Code": "13-hooker-boardwalk.jpg"
+}
+```
+
+Stock Omarchy draws one background across the whole desktop and ignores this
+file. It is read by a replacement for the `omarchy.background` shell plugin that
+resolves the image per workspace, and per monitor, from its own active
+workspace. A workspace the file says nothing about falls back to the Nth
+background of the theme, so every workspace still lands on something different.
 
 ### The border gradient
 
