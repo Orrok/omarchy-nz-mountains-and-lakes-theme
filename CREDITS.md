@@ -6,7 +6,7 @@ free commercial and non-commercial use without permission. Attribution is not
 demanded by that licence, but it is given here in full because the photographs
 are the best part of this theme.
 
-Twelve photographs by eleven photographers. If you reuse these images, please
+Twenty-two photographs by twenty photographers. If you reuse these images, please
 carry this file with them.
 
 ## Photographers
@@ -15,12 +15,21 @@ carry this file with them.
 - **[Christopher Izquierdo](https://unsplash.com/@chris_izquierdo)**
 - **[Delphine Ducaruge](https://unsplash.com/@delphinenz)** — 2 photographs
 - **[Eddie Lau](https://unsplash.com/@eddielau6)**
+- **[Esther Grosscurt](https://unsplash.com/@reisdroom)**
+- **[H Young](https://unsplash.com/@whyhelen)**
+- **[Hannah Wright](https://unsplash.com/@hannahwrightdesigner)**
 - **[Julie Clarke](https://unsplash.com/@clarbner)**
 - **[Ken Cheung](https://unsplash.com/@kencheungphoto)**
+- **[Kerensa Pickett](https://unsplash.com/@kerensa1)**
+- **[Richard Powazynski](https://unsplash.com/@richardpowazynski)**
+- **[Sebastian Knoll](https://unsplash.com/@skenb)**
 - **[Sebastien Goldberg](https://unsplash.com/@sebastiengoldberg)**
 - **[Shashank B](https://unsplash.com/@shadank)**
-- **[Timo Volz](https://unsplash.com/@magict1911)**
+- **[Timo Volz](https://unsplash.com/@magict1911)** — 2 photographs
 - **[Tonia Kraakman](https://unsplash.com/@tototosia)**
+- **[Trish H-C](https://unsplash.com/@trish_hc)**
+- **[Tyler Lastovich](https://unsplash.com/@lastly)**
+- **[Wan Salahuddin Wan Ismail](https://unsplash.com/@udeyismail)**
 - **[Will Turner](https://unsplash.com/@turner_imagery)**
 
 ## Photographs
@@ -39,6 +48,16 @@ carry this file with them.
 | 10 | `10-green-field-snow.jpg` | [Green grass field near lake and snow covered mountain](https://unsplash.com/photos/_0hhHG0aD9Y) | [Sebastien Goldberg](https://unsplash.com/@sebastiengoldberg) | Southern Alps, New Zealand |
 | 11 | `11-skimming-stones.jpg` | [Skimming stones](https://unsplash.com/photos/h8wTmJU4XyU) | [Casey Schackow](https://unsplash.com/@schackowshots) | Lake Tekapo, New Zealand |
 | 12 | `12-tekapo-wide.jpg` | [Lake Pukaki](https://unsplash.com/photos/0Wb8v0YJX2w) | [Julie Clarke](https://unsplash.com/@clarbner) | Lake Pukaki, New Zealand |
+| 13 | `13-hooker-boardwalk.jpg` | [The boardwalk on the Hooker Valley Track](https://unsplash.com/photos/etuPl3bjiOk) | [Tyler Lastovich](https://unsplash.com/@lastly) | Hooker Valley Track, Mount Cook National Park, New Zealand |
+| 14 | `14-aoraki-alpenglow.jpg` | [Alpenglow on a snow-covered peak above Aoraki](https://unsplash.com/photos/H-_nVCfR120) | [Kerensa Pickett](https://unsplash.com/@kerensa1) | Aoraki/Mount Cook National Park, New Zealand |
+| 15 | `15-wanaka-hills.jpg` | [Hills falling away to Lake Wanaka](https://unsplash.com/photos/k7vVgmDa1Jw) | [Hannah Wright](https://unsplash.com/@hannahwrightdesigner) | Lake Wanaka, Otago, New Zealand |
+| 16 | `16-milford-falls.jpg` | [Waterfalls on the walls of Milford Sound](https://unsplash.com/photos/6EI80VuEDP4) | [Timo Volz](https://unsplash.com/@magict1911) | Milford Sound, Neuseeland |
+| 17 | `17-mueller-hut-stars.jpg` | [Mueller Hut under a star-filled sky](https://unsplash.com/photos/H5eHKtup1aA) | [Sebastian Knoll](https://unsplash.com/@skenb) | Mueller Hut, Aoraki Mount Cook National Park, New Zealand |
+| 18 | `18-aoraki-glacier-lake.jpg` | [Snow-covered Aoraki above a glacial lake](https://unsplash.com/photos/ETlZwlI-AR0) | [Richard Powazynski](https://unsplash.com/@richardpowazynski) | Aoraki, Canterbury, New Zealand |
+| 19 | `19-mt-john-range.jpg` | [The Southern Alps from the Mount John summit](https://unsplash.com/photos/CjpAnjRn2j8) | [Trish H-C](https://unsplash.com/@trish_hc) | Mountain range view from Mt John summit, Tekapo, New Zealand |
+| 20 | `20-tekapo-boulders.jpg` | [Boulders in the shallows at Lake Tekapo](https://unsplash.com/photos/ZiToNT8rJe0) | [Wan Salahuddin Wan Ismail](https://unsplash.com/@udeyismail) | Lake Tekapo, New Zealand |
+| 21 | `21-aoraki-in-cloud.jpg` | [Aoraki wrapped in cloud](https://unsplash.com/photos/3CE2QN385ew) | [H Young](https://unsplash.com/@whyhelen) | Aoraki / Mount Cook, New Zealand |
+| 22 | `22-milford-sound.jpg` | [Milford Sound under an open sky](https://unsplash.com/photos/gEwsCgFSYuU) | [Esther Grosscurt](https://unsplash.com/@reisdroom) | Milford Sound, Southland, New Zealand |
 
 ## A note on resolution
 
