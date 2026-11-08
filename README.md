@@ -37,7 +37,6 @@ name, so the theme installs as `nz-mountains-and-lakes`.
 | File | Purpose |
 |------|---------|
 | `colors.toml` | The palette and the border gradient. Omarchy generates the terminal, editor, btop and shell themes from this. |
-| `hyprland.lua` | Near-sharp corners, alpine haze blur, distance dimming and a tight shadow. |
 | `icons.theme` | Yaru Blue icon theme. |
 | `chromium.theme` | Browser frame tint. |
 | `unlock.png` | The Omarchy wordmark, recoloured to the accent. |
@@ -88,12 +87,12 @@ the Hyprland window border and every shell surface, so notifications, popups,
 menus, the launcher and the lock screen all carry the same meltwater-to-deep-lake
 shift.
 
-### A note for anyone installing from this repository
+### Corners, haze and dimming
 
-Omarchy will not run code from a cloned theme, so it discards `hyprland.lua` on
-install. The border gradient is deliberately defined in `colors.toml` instead,
-which is never stripped, so it survives. What a cloned install loses is the
-corner rounding, the blur, the dimming and the shadow. Add them back in your own
+A theme installed from a repository may not ship Hyprland code, so this one
+carries none. The border gradient lives in `colors.toml`, which Omarchy turns
+into the Hyprland config for you. For the near-sharp corners, the glacier-lake
+haze and the distance dimming as well, put this in your own
 `~/.config/hypr/looknfeel.lua`:
 
 ```lua
@@ -107,11 +106,9 @@ hl.config({
 })
 ```
 
-This is a deliberate safety measure in Omarchy, not a fault in the theme.
-
 ## Photographs
 
-Twelve backgrounds by eleven photographers, used under the
+The twenty-two backgrounds are the work of twenty photographers and are used under the
 [Unsplash License](https://unsplash.com/license). Full attribution, including a
 link to every photographer and every original photograph, is in
 **[CREDITS.md](CREDITS.md)**. The same credit is embedded in each JPEG, so it

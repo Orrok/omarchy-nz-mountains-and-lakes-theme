@@ -13,8 +13,7 @@ accent = "#4fc8e8"
 hyprland_active_border = "accent blue 45deg"
 
 # Unfocused window border. Like the active border, this reaches the Hyprland
-# border and the shell surfaces, and unlike hyprland.lua it survives a repo
-# install.
+# border and the shell surfaces.
 hyprland_inactive_border = "selection"
 
 selection = "#1e3a54"
